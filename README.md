@@ -1,1 +1,1 @@
-# ganeshIdol
+# Idol Immersion Analysis & Management Project
